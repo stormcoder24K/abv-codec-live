@@ -309,13 +309,11 @@ This project extends **ABVCodec (Project 3)** to demonstrate:
 
 ---
 
-## 🧑‍💻 Author
+## 🧑‍💻 Authors
 
-**Aarush**  
-AI/ML Engineer (CSE — AI & ML)  
+**Aarush, Keerthana **  
+AI/ML Engineers (CSE — AI & ML)  
 Specialized in neural compression, efficient inference, and model systems
-
-[GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:your.email@example.com)
 
 ---
 
@@ -330,7 +328,7 @@ Specialized in neural compression, efficient inference, and model systems
 
 ## 📜 License
 
-[Add your license here, e.g., MIT License]
+MIT Licence
 
 ---
 
@@ -352,7 +350,7 @@ Please feel free to submit a Pull Request or open an issue.
 
 For questions or support:
 - Open an issue on GitHub
-- Contact: [your.email@example.com]
+- Contact: [aarushinc1@gmail.com]
 - Check the [Wiki](link-to-wiki) for troubleshooting
 
 ---
