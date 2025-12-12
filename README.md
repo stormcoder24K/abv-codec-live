@@ -1,4 +1,4 @@
-# 🎥 ABVCodec-Live: Real-Time Semantic-Aware Neural Video Codec @ 0.10× Bandwidth
+# 🎥 Adaptive Bitrate Vision: A Neural Codec for Bandwidth-Constrained Surveillance (Live)
 
 *Live webcam deployment of ABVCodec with real-time semantic masking, bandwidth-dependent degradation, PSNR monitoring, and network bitrate sensing.*
 
