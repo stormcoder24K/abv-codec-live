@@ -309,10 +309,10 @@ This project extends **ABVCodec (Project 3)** to demonstrate:
 
 ---
 
-## 🧑‍💻 Author
+## 🧑‍💻 Authors
 
-**Aarush**  
-AI/ML Engineer (CSE — AI & ML)  
+**Aarush, Keerthana, Amulya**  
+AI/ML Engineers (CSE — AI & ML)  
 Specialized in neural compression, efficient inference, and model systems
 
 ---
